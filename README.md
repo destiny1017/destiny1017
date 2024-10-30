@@ -2,12 +2,12 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/destiny1017/destiny1017/blob/main/assets/profile_1.png?raw=true" width="450px">
+  <img src="https://github.com/destiny1017/destiny1017/blob/main/assets/profile_1.png?raw=true" width="400px">
 </p>
 
 내가 개발한 프로그램의 결함은 곧 나의 결함과 같다는 믿음으로, 항상 깔끔하고 완성도 높은 프로그램을 개발하려합니다.  
-다소 늦은 시작시기와 비전공이라는 부족함을 채우기위해, 항상 남들보다 더 노력해야 한다고 있습니다.
-
+다소 늦은 시작시기와 비전공이라는 부족함을 채우기위해, 항상 남들보다 더욱 노력하려합니다.  
+<br>
 <details>
   <summary>
     <strong>📖 항상 다양한 강의와 서적을 통해 배움을 소홀히 하지 않고 있어요</strong>
