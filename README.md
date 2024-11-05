@@ -12,7 +12,7 @@
   <summary>
     <strong>📖 항상 다양한 강의와 서적을 통해 배움을 소홀히 하지 않고 있어요</strong>
   </summary>
-  <a href="https://github.com/destiny1017/TIL">CS 공부 기록용 TIL Repo</a><br><br>
+  <a href="https://github.com/destiny1017/TIL"> 공부 내용을 정리하는 TIL Repo</a><br><br>
   <img src="https://github.com/destiny1017/destiny1017/blob/main/assets/%EC%88%98%EB%A3%8C%EC%A6%9D.png?raw=true" width="650px">
   <br>
   <img src="https://github.com/destiny1017/destiny1017/blob/main/assets/%EB%8F%84%EC%84%9C%EA%B5%AC%EB%A7%A4%EB%AA%A9%EB%A1%9D.png?raw=true" width="650px">
